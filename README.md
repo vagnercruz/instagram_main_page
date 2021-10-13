@@ -1,4 +1,4 @@
-#Recriando a página inicial do Instagram
+Recriando a página inicial do Instagram
 Projeto realizado no Bootcamp da Digital Innovation One com:
 
 ✔️ HTML ✔️ CSS
